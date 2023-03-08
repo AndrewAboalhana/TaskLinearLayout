@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskLinearLayout</string>
+    <string name="ahmed_hassan">Ahmed hassan</string>
+    <string name="job_title">Engineer</string>
+    <string name="country">UK</string>
+    <string name="review">(150 Reviews)</string>
+    <string name="rate">4.5</string>
+    <string name="days">5 Days ago</string>
+</resources>
