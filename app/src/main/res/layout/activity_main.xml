@@ -52,7 +52,7 @@
                     android:layout_marginTop="@dimen/smallMargin"
                     android:fontFamily="@font/dm_sans_medium"
                     android:text="@string/job_title"
-                    android:textColor="#122940"
+                    android:textColor="#DE122940"
                     android:textSize="12sp" />
 
                 <LinearLayout
@@ -73,7 +73,7 @@
                         android:layout_weight="1"
                         android:fontFamily="@font/dm_sans"
                         android:text="@string/country"
-                        android:textColor="#8F263238"
+                        android:textColor="#99263238"
                         android:textSize="13sp" />
 
                 </LinearLayout>
@@ -149,7 +149,7 @@
                     android:layout_marginTop="8dp"
                     android:fontFamily="@font/dm_sans_medium"
                     android:text="Russian"
-                    android:textColor="#122940"
+                    android:textColor="#DE122940"
                     android:textSize="12sp" />
 
                 <TextView
@@ -160,7 +160,7 @@
                     android:fontFamily="@font/dm_sans"
                     android:lines="1"
                     android:text="@string/days"
-                    android:textColor="#7C122940"
+                    android:textColor="#61122940"
                     android:textSize="12sp" />
 
 
