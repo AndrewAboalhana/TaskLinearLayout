@@ -36,7 +36,7 @@
 
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="21dp"
+                    android:layout_height="wrap_content"
                     android:layout_marginStart="@dimen/normalMargin"
                     android:layout_marginTop="@dimen/normalMargin"
                     android:fontFamily="@font/dm_sans_bold"
@@ -68,11 +68,13 @@
                         android:src="@drawable/baseline_location_on_24" />
 
                     <TextView
-                        android:layout_width="wrap_content"
+                        android:layout_width="0dp"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:layout_marginHorizontal="4dp"
                         android:fontFamily="@font/dm_sans"
                         android:text="@string/country"
+                        android:gravity="center"
                         android:textColor="#99263238"
                         android:textSize="13sp" />
 
